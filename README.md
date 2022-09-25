@@ -1,7 +1,7 @@
 # NLW-eSports
 Application developed during Rocketseat NLW to connect eSports players
 
-Essa aplicação foi desenvolvida com o intuito de por em prática as bases do desenvolvimento com React, React Native e Node, juntamente com as melhores
+Essa aplicação foi desenvolvida com o intuito de por em prática as bases do desenvolvimento com React, React Native e Node, juntamente com as melhores práticas
 da atualidade dentro do mercado. Criada para conectar pessoas apaixonadas por jogos para que eles possam aproveitar o máximo do seu jogo favorito
 com pessoas que tem a mesma paixão.
 
